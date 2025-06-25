@@ -23,4 +23,4 @@ A lightweight web app that predicts **Fire Weather Index (FWI)** using environme
 ---
 
 🧠 Dataset: [UCI Algerian Forest Fires](https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset)  
-✨ Built with love and learning by [Your Name]
+✨ Built with love and learning by Saturn
